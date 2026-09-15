@@ -1,0 +1,27 @@
+.sidebar {
+  background-color: rgb(34, 34, 254);
+  grid-area: sidebar;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: grey;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+
+.title {
+  color: white;
+  font-size: 50px;
+  width: 320px;
+  margin-top: 250px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.description {
+  font-size: 17px;
+  color: rgb(209, 209, 209);
+  width: 400px;
+  margin-left: 25px;
+  margin-right: 25px;
+}

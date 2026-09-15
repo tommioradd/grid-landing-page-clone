@@ -1,0 +1,23 @@
+nav {
+  background-color: rgb(34, 34, 254);
+  grid-area: nav;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+  font-size: 14px;
+}
+
+.menu {
+  color: white;
+}
+
+.menu:hover {
+  background-color: rgb(72, 72, 248);
+  cursor: pointer;
+}

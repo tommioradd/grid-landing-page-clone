@@ -1,0 +1,14 @@
+footer {
+  background-color: rgb(34, 34, 254);
+  grid-area: footer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: grey;
+  font-size: 14px;
+}
